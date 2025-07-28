@@ -183,11 +183,14 @@ img {
 .benefits {
   padding: 120px 0;
 }
-.benefits-title {
+.visually-hidden {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+}
+
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
