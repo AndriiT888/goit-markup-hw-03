@@ -158,8 +158,8 @@ img {
 }
 
 .order-button {
-  margin: 0 auto;
   display: block;
+  margin: 0 auto;
   width: 169px;
   height: 56px;
   font-weight: 500;
